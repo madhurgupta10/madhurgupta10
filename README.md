@@ -149,7 +149,7 @@
             height="40"
         />
     </a>
-    <a href="" target="_blank">
+    <a href="https://flask.palletsprojects.com" target="_blank">
         <img
             src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"
             alt="flask"
