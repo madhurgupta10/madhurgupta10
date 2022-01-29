@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Madhur Gupta</h1>
 <h3 align="center">Software Engineer from India</h3>
 
-<h3 align="center">
-    :computer: I’m currently working on
-    <a href="https://github.com/commons-app/apps-android-commons"
-        >Wikimedia Commons Android App</a
-    >
-</h3>
-
 <p align="center">
     <a href="https://twitter.com/madhurgupta10" target="blank"
         ><img
